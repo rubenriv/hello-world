@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-My name is Ruben, I like volleyball and girls
+My name is Ruben
